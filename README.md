@@ -8,3 +8,8 @@ updated
 
 check the changes
 
+## adding feature branch - testing
+
+1. open index.html on your browser
+
+
